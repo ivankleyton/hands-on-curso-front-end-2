@@ -9,10 +9,16 @@
 @import "./nav-produtos.scss";
 @import "./banners-promocionais-statico.scss";
 @import "./produtos.scss";
+@import "./footer.scss";
+@import "./responsive.scss";
+@import "./produtos-compra.scss";
 
 
 // Framework
 @import'./bootstrap.scss';
+
+// Components bootstrap
+@import "./breadcrumb.scss";
 
 // Config
 @import "./config.scss";
